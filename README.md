@@ -1,4 +1,4 @@
-<h1><a href="http://Daniil8565.github.io/Freelancer-portfolio" target="_blank">Многостраничный сайт</a> портфолио программиста</h1>
+<h1><a href="http://Daniil8565.github.io/Freelancer-portfolio">Многостраничный сайт</a> портфолио программиста</h1>
 <ul>
   <li>Приложение разработано с помощью библиотеки React</li>
   <li>Есть мобильная адаптация приложения</li>
